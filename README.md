@@ -4,6 +4,8 @@ A single-page marketing/landing site for Sterling Capital Advisors, an investmen
 advisory. Built as one self-contained `index.html` — plain HTML5, CSS3, and vanilla
 JavaScript, with no build system, package manager, or dependencies.
 
+![Screenshot of the Sterling Capital Advisors landing page](screenshot.png)
+
 ## Live Site
 
 Deployed automatically to GitHub Pages on every push to `main` via
