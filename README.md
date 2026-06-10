@@ -34,4 +34,11 @@ Everything lives in [`index.html`](index.html):
 
 The contact form submits via [FormSubmit](https://formsubmit.co) — no backend required.
 
+## SEO & Other Pages
+
+- [`robots.txt`](robots.txt) and [`sitemap.xml`](sitemap.xml) — crawler directives and sitemap
+  for the live site
+- [`privacy-policy.html`](privacy-policy.html) — standalone PDPA-compliant privacy policy,
+  linked from the footer
+
 See [CLAUDE.md](CLAUDE.md) for detailed architecture and editing conventions.
